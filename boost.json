@@ -1,4 +1,8 @@
 {
+    "agents": [
+        "antigravity",
+        "amp"
+    ],
     "cloud": true,
     "guidelines": true,
     "mcp": true,
